@@ -17,12 +17,12 @@ This CPU-based Rasterization Renderer is a computer graphics tool that renders a
 
 1. Clone the project repository to your local machine using Git.
 ```
-git clone https://github.com/username/project.git
+git clone git@github.com:liubf21/Rasterization-Renderer.git
 ```
 
 2. Navigate to the project directory.
 ```
-cd project
+cd Rasterization-Renderer
 ```
 
 3. Build the project using CMake.(CMakelists.txt may need to be modified according to the actual situation)
